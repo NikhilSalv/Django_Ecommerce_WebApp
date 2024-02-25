@@ -40,12 +40,22 @@ The project follows a typical Django project structure, consisting of multiple a
 - Manages user profiles, allowing users to update their information and view order history.
 - Implements role-based access control (RBAC) to restrict access to certain functionalities based on user roles (e.g., admin, customer).
 
+### API Testing with Swagger
+
+<img width="1421" alt="Screenshot 2024-02-25 at 14 57 43" src="https://github.com/NikhilSalv/PowerBI_Developer/assets/74225565/38d1ae94-fb9d-453a-b7fb-7257897dde26">
+
+
+- Utilizes Swagger tool to document and test APIs.
+- Enables developers to collaborate effectively by providing a central location to explore API endpoints, their responses, and parameters.
+- Facilitates frontend development by allowing frontend developers to understand and integrate with backend APIs seamlessly.
+- 
+
 ## Technologies Used
 - Django: Python-based web framework for building robust and scalable web applications.
 - Django REST Framework (DRF): Provides powerful tools for building APIs and serializing data.
 - HTML/CSS/JavaScript: Frontend development technologies for building responsive and interactive user interfaces.
 - Bootstrap: Frontend framework for designing responsive and mobile-first websites.
-- Stripe/PayPal API: Integration with payment gateways for secure payment processing.
+- BrainTree API: Integration with payment gateways for secure payment processing.
 - SQLite/PostgreSQL: Database management systems for storing and retrieving application data.
 
 ## Setup and Installation
