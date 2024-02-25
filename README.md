@@ -62,3 +62,4 @@ To set up and run the e-commerce Django project locally, follow these steps:
 This e-commerce Django project offers a comprehensive solution for managing an online clothing store, from product management to order processing and payment handling. With its modular architecture and user-friendly interface, the project provides a solid foundation for building a successful e-commerce platform for a clothing brand.
 
 For any further assistance or inquiries, please refer to the project's documentation or contact the project maintainers.
+
